@@ -1,5 +1,4 @@
 /**画面上の座標がDial中心から見て、どの角度・距離にあるのか計算するユーティリティクラスです。
-詳細は小西へ。
 **/
 public class PolarCoordUtil {
     private PolarCoordUtil(){}
